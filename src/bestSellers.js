@@ -5,7 +5,7 @@ class bestSellers extends Component {
     return (
       <div>
         <h2>Best Sellers</h2>
-        <p>Enter Best Sellers Table Here</p>
+
       </div>
     );
   }

@@ -1,0 +1,57 @@
+[
+    {
+            "id": 1,
+            "name": "Watergate",
+            "price": 29,
+            "image": "sq-watergate-box.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Watergate",
+            "price": 29,
+            "image": "sq-watergate-box.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Watergate",
+            "price": 29,
+            "image": "sq-watergate-box.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Watergate",
+            "price": 29,
+            "image": "sq-watergate-box.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Watergate",
+            "price": 29,
+            "image": "sq-watergate-box.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Watergate",
+            "price": 29,
+            "image": "sq-watergate-box.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Watergate",
+            "price": 29,
+            "image": "sq-watergate-box.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Watergate",
+            "price": 29,
+            "image": "sq-watergate-box.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Watergate",
+            "price": 29,
+            "image": "sq-watergate-box.jpg"
+        }
+    
+]

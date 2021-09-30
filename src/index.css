@@ -1,5 +1,8 @@
+
+
 body {
-  background-color: white;
+  background-color: #b1acb6;
+  background-size: cover;
   padding: 20px;
   margin: 0;
 }
@@ -41,3 +44,7 @@ ul.header li a {
   background-color: white;
   border-color: black;
 }
+img.small {
+  max-height: 8rem;
+}
+

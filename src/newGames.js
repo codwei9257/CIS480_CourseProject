@@ -5,7 +5,7 @@ class newGames extends Component {
     return (
       <div>
         <h2>New Games</h2>
-        <p>Check out our new selection of games:</p>
+        <p>Check out our new selection of games:</p>]
         <ol>
           <li>Game 1</li>
           <li>Game 2</li>

@@ -9,13 +9,18 @@ import Login from "./Login";
 import newGames from "./newGames";
 import Contact from "./Contact";
 import bestSellers from "./bestSellers";
- 
+import SearchBar from "./components/SearchBar";
+import GameData from './data.json';
+
 class Main extends Component {
   render() {
     return (
         <HashRouter>
         <nav>
           <h1>It Takes Two</h1>
+          <div className="search">
+          <SearchBar placeholder="Search..." data={GameData}/>
+          </div>
           <ul className="header">
             <li><NavLink exact to="/">Home</NavLink></li>
             <li><NavLink to="/login">Login</NavLink></li>
@@ -23,6 +28,7 @@ class Main extends Component {
             <li><NavLink to="/bestsellers">Best Sellers</NavLink></li>
             <li><NavLink to="/contact">Come Visit Us!</NavLink></li>
           </ul>
+          <br />
           <div className="content">
               <Route exact path="/" component={Home}/>
               <Route path="/login" component={Login}/>
@@ -31,6 +37,7 @@ class Main extends Component {
               <Route path="/contact" component={Contact}/>
              
           </div>
+
           </nav>
         </HashRouter>
     );
