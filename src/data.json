@@ -3,61 +3,71 @@
             "id": 1,
             "name": "Watergate",
             "price": 29,
-            "image": "sq-watergate-box.jpg"
+            "image": "sq-watergate-box.jpg",
+            "link": "https://boardgamegeek.com/boardgame/274364/watergate"
         },
         {
             "id": 2,
             "name": "Betrayal At House on the Hill",
             "price": 60,
-            "image": "BetrayalAtHouse.jpg"
+            "image": "BetrayalAtHouse.jpg",
+            "link": "https://boardgamegeek.com/boardgame/10547/betrayal-house-hill"
         },
         {
             "id": 3,
             "name": "Forbidden Island",
             "price": 35,
-            "image": "ForbiddenIsland.jpg"
+            "image": "ForbiddenIsland.jpg",
+            "link": "https://boardgamegeek.com/boardgame/65244/forbidden-island"
         },
         {
             "id": 4,
             "name": "Catan Starfarers",
             "price": 75,
-            "image": "catanStarfarers.jpg"
+            "image": "catanStarfarers.jpg",
+            "link": "https://www.catan.com/"
         },
         {
             "id": 5,
             "name": "Fox In the Forest",
             "price": 20,
-            "image": "FoxInTheForest.jpg"
+            "image": "FoxInTheForest.jpg",
+            "link": "https://boardgamegeek.com/boardgame/221965/fox-forest"
         },
         {
             "id": 6,
             "name": "Mansions of Madness",
             "price": 55,
-            "image": "MansionsOfMadness.jpg"
+            "image": "MansionsOfMadness.jpg",
+            "link" : "https://boardgamegeek.com/boardgame/205059/mansions-madness-second-edition"
         },
         {
             "id": 7,
             "name": "Netrunner",
             "price": 30,
-            "image": "NetRunner.jpg"
+            "image": "NetRunner.jpg",
+            "link": "https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/"
         },
         {
             "id": 8,
             "name": "Lord of the Rings: Journeys of Middle Earth",
             "price": 82,
-            "image": "LordOfTheRings.jpg"
+            "image": "LordOfTheRings.jpg",
+            "link" : "https://boardgamegeek.com/boardgame/269385/lord-rings-journeys-middle-earth"
         },
         {
             "id": 9,
             "name": "Odin's Ravens",
             "price": 25,
-            "image": "OdinsRavens.jpg"
+            "image": "OdinsRavens.jpg",
+            "link": "https://boardgamegeek.com/boardgame/192074/odins-ravens-second-edition"
         },
         {
             "id": 10,
             "name": "Stratego",
             "price": 43,
-            "image": "Stratego.jpg"
+            "image": "Stratego.jpg",
+            "link": "https://boardgamegeek.com/boardgame/1917/stratego"
         }
     
 ]

@@ -15,6 +15,7 @@ import GameData from './data.json';
 class Main extends Component {
   render() {
     return (
+      //Create NavBar and set up routes to each individual page
         <HashRouter>
         <nav>
           <div class="bp"></div>
@@ -23,7 +24,7 @@ class Main extends Component {
           <div class="mainContent">
           <h1>It Takes Two</h1>
           <div className="search">
-          <SearchBar placeholder="Search..." data={GameData}/>
+          <SearchBar placeholder="Search..." data={GameData}/> 
           </div>
           <ul className="header">
             <li><NavLink exact to="/">Home</NavLink></li>
