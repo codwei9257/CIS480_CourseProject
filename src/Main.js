@@ -17,6 +17,10 @@ class Main extends Component {
     return (
         <HashRouter>
         <nav>
+          <div class="bp"></div>
+          <div class="bp bp2"></div>
+          <div class="bp bp3"></div>
+          <div class="mainContent">
           <h1>It Takes Two</h1>
           <div className="search">
           <SearchBar placeholder="Search..." data={GameData}/>
@@ -26,7 +30,7 @@ class Main extends Component {
             <li><NavLink to="/login">Login</NavLink></li>
             <li><NavLink to="/newgames">New Games</NavLink></li>
             <li><NavLink to="/bestsellers">Best Sellers</NavLink></li>
-            <li><NavLink to="/contact">Come Visit Us!</NavLink></li>
+            <li><NavLink to="/contact">Contact Us</NavLink></li>
           </ul>
           <br />
           <div className="content">
@@ -36,6 +40,7 @@ class Main extends Component {
               <Route path="/bestsellers" component={bestSellers}/>
               <Route path="/contact" component={Contact}/>
              
+          </div>
           </div>
 
           </nav>

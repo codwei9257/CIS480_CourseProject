@@ -7,51 +7,57 @@
         },
         {
             "id": 2,
-            "name": "Watergate",
-            "price": 29,
-            "image": "sq-watergate-box.jpg"
+            "name": "Betrayal At House on the Hill",
+            "price": 60,
+            "image": "BetrayalAtHouse.jpg"
         },
         {
             "id": 3,
-            "name": "Watergate",
-            "price": 29,
-            "image": "sq-watergate-box.jpg"
+            "name": "Forbidden Island",
+            "price": 35,
+            "image": "ForbiddenIsland.jpg"
         },
         {
             "id": 4,
-            "name": "Watergate",
-            "price": 29,
-            "image": "sq-watergate-box.jpg"
+            "name": "Catan Starfarers",
+            "price": 75,
+            "image": "catanStarfarers.jpg"
         },
         {
             "id": 5,
-            "name": "Watergate",
-            "price": 29,
-            "image": "sq-watergate-box.jpg"
+            "name": "Fox In the Forest",
+            "price": 20,
+            "image": "FoxInTheForest.jpg"
         },
         {
             "id": 6,
-            "name": "Watergate",
-            "price": 29,
-            "image": "sq-watergate-box.jpg"
+            "name": "Mansions of Madness",
+            "price": 55,
+            "image": "MansionsOfMadness.jpg"
         },
         {
             "id": 7,
-            "name": "Watergate",
-            "price": 29,
-            "image": "sq-watergate-box.jpg"
+            "name": "Netrunner",
+            "price": 30,
+            "image": "NetRunner.jpg"
         },
         {
             "id": 8,
-            "name": "Watergate",
-            "price": 29,
-            "image": "sq-watergate-box.jpg"
+            "name": "Lord of the Rings: Journeys of Middle Earth",
+            "price": 82,
+            "image": "LordOfTheRings.jpg"
         },
         {
             "id": 9,
-            "name": "Watergate",
-            "price": 29,
-            "image": "sq-watergate-box.jpg"
+            "name": "Odin's Ravens",
+            "price": 25,
+            "image": "OdinsRavens.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Stratego",
+            "price": 43,
+            "image": "Stratego.jpg"
         }
     
 ]
